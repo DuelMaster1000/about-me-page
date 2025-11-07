@@ -1,0 +1,89 @@
+html, body {
+    background-color: #1A1A2E;
+    }
+
+
+.section0 {
+    background-color: #DC143C;
+    font-family:Times, serif;
+    font-size: 20px;
+    margin:2px;
+    min-height: 5vh;
+    text-align: center;
+    align-items: center;
+}
+
+.section1 {
+    background-color:#3EB489;
+    color: #f0f0f0;
+    font-family: Times, serif;
+    font-size: 15px;
+    margin: 2px;
+    min-height: 30vh;
+    text-align: left;
+    align-items: center;
+
+
+}
+
+.section2 {
+    background-color: #FF8C00;
+    color: black;
+    min-height: 20vh;
+    font-family: Times, serif;
+    font-size: 15px;
+    margin: 2px;
+    text-align: left;
+}
+
+.section3 {
+    background-color: #4169E1;
+    color: black;
+    min-height: 35vh;
+    font-family: Times, serif;
+    font-size: 15px;
+    margin: 2px;
+    text-align: left;
+    padding: 0px;
+}
+
+.section4 {
+    background-color: #FFD700;
+    color: white;
+    min-height: 12vh;
+    font-family: Times, serif;
+    font-size: 15px;
+    margin: 2px;
+    text-align: left;
+    align-items: left;
+}
+
+.section5 {
+    font-family: Times, serif;
+    font-size: 25px;
+    color: white;
+}
+
+.section6 {
+    font-family: Times, serif;
+    font-size: 15px;
+    color: white;
+}
+
+.picture2 {
+    height: 15em;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+em {
+    background-color: black;
+    color: fuchsia
+    }
+.me {
+        width: 20em;
+        float: left;
+        margin: 1em;
+        }
